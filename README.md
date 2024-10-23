@@ -1,4 +1,8 @@
-# ReactPersonalDashboard the app is deployed on Netlify https://67191dc11519c72d4eabb2b1--boisterous-sprinkles-76a561.netlify.app/ There is a todo's page with ability to filter or update the list by id. There is an album page where users can update photo descriptions and search photos by id. The app receives profile user API data from https://jsonplaceholder.typicode.com/ and for the todos API.  
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-s
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
